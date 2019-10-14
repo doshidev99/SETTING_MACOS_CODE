@@ -1,0 +1,27 @@
+{
+    "editor.suggestSelection": "first",
+    "editor.fontFamily": "Fira Code, Monaco",
+    "git.promptToSaveFilesBeforeCommit": "never",
+    "editor.cursorStyle": "block",
+    "breadcrumbs.enabled": false,
+    "editor.formatOnSave": true,
+    "vetur.format.options.tabSize": 4,
+    "workbench.activityBar.visible": false,
+    "workbench.iconTheme": "vscode-icons",
+    "search.showLineNumbers": true,
+    "terminal.integrated.cursorBlinking": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.codeActionsOnSaveTimeout": 650,
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "stylelintIntegration": true,
+            "eslintIntegration": true,
+            "semi": false,
+            "singleQuote": true,
+            "tabWidth": 4
+        }
+    },
+    "prettier.tabWidth": 4
+}
